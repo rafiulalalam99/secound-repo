@@ -7,4 +7,9 @@ h1{
 color: teal;
 background-color: thistle;
 
+height: 1px;font-weight: 1px;
+
+}
+h2{
+    color: saddlebrown;
 }
